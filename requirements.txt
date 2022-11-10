@@ -1,0 +1,7 @@
+black==22.6.0
+quart-openapi==1.7.2
+python-dotenv==0.19.2
+quart==0.17.0
+Werkzeug==2.0.2
+hypercorn>=0.13.2
+aiohttp>=3.8.3
